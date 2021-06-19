@@ -5,6 +5,9 @@ theme = "beautifulhugo"
 enableEmoji = true
 disqusShortname = "nicolas-gomes"
 
+[Params]
+  comments = true
+
 [menu]
 
   [[menu.main]]
