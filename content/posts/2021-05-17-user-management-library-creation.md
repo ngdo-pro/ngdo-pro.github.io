@@ -1,7 +1,7 @@
 ---
 title: "My new side-project"
 date: 2021-06-19
-draft: true
+draft: false
 ---
 
 ## Why ?
