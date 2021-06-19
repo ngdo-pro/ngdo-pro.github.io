@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Nicolas Gomes de Oliveira</title>
+    <link>https://www.nicolas-gomes.com/</link>
+    <description>Recent content on Nicolas Gomes de Oliveira</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="https://www.nicolas-gomes.com/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Nicolas Gomes de Oliveira</title>
+      <link>https://www.nicolas-gomes.com/about/</link>
+      <pubDate>Sat, 19 Jun 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.nicolas-gomes.com/about/</guid>
+      <description>Web Developer Proudly developing web applications since 2017.
+Interested in code architecture and Domain Driven Design.
+Experience:    R&amp;amp;D Backend Developer @Klaxoon
+PHP (Symfony)
+2019-now
+    Backend Developer @Lepermislibre
+PHP (Symfony)
+2018-2019
+    Backend&amp;amp;Frontend junior Developer @Wizaplace
+PHP (Symfony) / Javascript (VueJS)
+2017-2018
+   Formation:    Backend junior developer @Food&amp;amp;You
+3 months internship
+2017
+    Student @WildCodeSchool Lyon</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,20 @@
+baseURL = "https://www.nicolas-gomes.com/"
+languageCode = "en-us"
+title = "Nicolas Gomes de Oliveira"
+theme = "beautifulhugo"
+enableEmoji = true
+
+[menu]
+
+  [[menu.main]]
+    identifier = "about"
+    name = "About me"
+    title = "about me"
+    url = "/about/"
+    weight = -110
+  [[menu.main]]
+    identifier = "posts"
+    name = "posts"
+    title = "blog section"
+    url = "/posts/"
+    weight = -120
