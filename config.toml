@@ -3,6 +3,7 @@ languageCode = "en-us"
 title = "Nicolas Gomes de Oliveira"
 theme = "beautifulhugo"
 enableEmoji = true
+disqusShortname = "nicolas-gomes"
 
 [menu]
 
