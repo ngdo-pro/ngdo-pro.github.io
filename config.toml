@@ -7,6 +7,7 @@ disqusShortname = "nicolas-gomes"
 
 [Params]
   comments = true
+  favicon = "/favicon-32x32.png"
 
 [menu]
 
