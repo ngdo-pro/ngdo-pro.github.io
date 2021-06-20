@@ -1,6 +1,8 @@
 ---
 title: "My new side-project"
-date: 2021-06-19
+date: 2021-06-20
+description: "A new Side project, driven by two learning goals: testability and code architecture."
+share_img: "/testability.png"
 draft: false
 ---
 
