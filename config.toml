@@ -10,6 +10,7 @@ googleAnalytics = "UA-97863234-2"
   comments = true
   favicon = "/favicon-32x32.png"
   images = ["/ngdo-icon.png"]
+  description = "Hello, I'm a web developer interested in code architecture"
 
 [menu]
 
