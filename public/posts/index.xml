@@ -13,10 +13,11 @@
       <pubDate>Sat, 19 Jun 2021 00:00:00 +0000</pubDate>
       
       <guid>https://www.nicolas-gomes.com/posts/2021-06-19-new-side-project/</guid>
-      <description>Why ? Along the years, I created many side-projects (never finished one 😅).
+      <description>A User Application. It will store users for all my other side projects.
+Why ? Along the years, I created many side-projects (never finished one 😅).
 Each one got its own user management code.
 I have other projects in mind, but I thought this time, I&amp;rsquo;m going to build an application to avoid re-implementing the same system over and over again !
-Many solutions already exists, so why build an other one ? Because the goal here is not to provide an application for the world to use, it&amp;rsquo;s about learning stuff.</description>
+Many solutions already exists, so why build an other one ?</description>
     </item>
     
   </channel>

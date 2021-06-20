@@ -9,6 +9,7 @@ googleAnalytics = "UA-97863234-2"
 [Params]
   comments = true
   favicon = "/favicon-32x32.png"
+  images = ["/ngdo-icon.png"]
 
 [menu]
 
