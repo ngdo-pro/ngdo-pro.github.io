@@ -9,7 +9,7 @@ googleAnalytics = "UA-97863234-2"
 [Params]
   comments = true
   favicon = "/favicon-32x32.png"
-  images = ["/ngdo-icon.png"]
+  logo = "/site-feature-image.png"
   description = "Hello, I'm a web developer interested in code architecture"
 
 [menu]
