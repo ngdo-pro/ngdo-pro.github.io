@@ -4,7 +4,7 @@ title = "Nicolas Gomes de Oliveira"
 theme = "beautifulhugo"
 enableEmoji = true
 disqusShortname = "nicolas-gomes"
-googleAnalytics = "UA-97863234-2"
+googleAnalytics = "UA-199924714-1"
 
 [Params]
   comments = true
