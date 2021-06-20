@@ -4,6 +4,8 @@ date: 2021-06-19
 draft: false
 ---
 
+A User Application. It will store users for all my other side projects.
+
 ## Why ?
 
 Along the years, I created many side-projects (never finished one :sweat_smile:).  
@@ -77,6 +79,4 @@ It will be callable only by other backends through an SDK (next project), provid
 
 ## Visually explained: 
 
-![3 diagrams explaining the new project](/new-project-visually-explained.png)
-
-*[(You can make those kind of diagrams with Klaxoon !)](https://www.klaxoon.com)*
+[![3 diagrams explaining the new project](/new-project-visually-explained.png)](https://www.nicolas-gomes.com/new-project-visually-explained.png)
