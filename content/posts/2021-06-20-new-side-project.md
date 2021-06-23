@@ -3,7 +3,7 @@ title: "My new side-project"
 date: 2021-06-20
 description: "A new Side project, driven by two learning goals: testability and code architecture."
 share_img: "/testability.png"
-draft: draft
+draft: true
 ---
 
 A User Application. It will store users for all my other side projects.
