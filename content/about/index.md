@@ -11,9 +11,13 @@ Interested in code architecture and Domain Driven Design.
 
 ### Experience:
 
-- >**R&D Backend Developer @Klaxoon  
+- >**R&D Senior Engineer @Klaxoon  
 PHP (Symfony)  
-2019-now**
+2022-now**
+
+- >R&D Backend Developer @Klaxoon  
+PHP (Symfony)  
+2019-2022
 
 - >Backend Developer @Lepermislibre  
 PHP (Symfony)  
